@@ -1,0 +1,39 @@
+main{
+  text-align:center;
+}
+address{
+text-align:center;
+}
+address,#tb1{
+width:100%;
+border-bottom-style: dotted;
+border-spacing: 0 10px;
+}
+thankyou{
+text-align:center;
+}
+#a{
+border-bottom-style: dotted;
+border-top-style: dotted;
+}
+#tb2{
+width:100%;
+border-spacing: 0 10px;
+}
+@media print {
+    #bt1{
+        display :  none;
+    }
+}
+#table1{
+width:68%;
+}
+#table2{
+width:29%;
+}
+#producttable{
+width:39%;
+}
+//#star{
+border-bottom-style:&#9728;
+}
